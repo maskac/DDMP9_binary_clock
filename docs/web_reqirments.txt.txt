@@ -1,0 +1,14 @@
+web FE
+-nastavení barvy RGB
+-nastavení strmosti osvětlení
+-zhasnout
+-TZ + PST
+-autotest
+-NTP server
+-teplota
+
+NtH
+-timer
+-stop watch
+-API
+-MQTT
