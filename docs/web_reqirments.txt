@@ -1,4 +1,4 @@
-web FE
+web Features
 -nastavení barvy RGB
 -nastavení strmosti osvětlení
 -zhasnout
